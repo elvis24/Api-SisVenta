@@ -1,6 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using SistemaVenta.API.Utilidad;
-using SistemaVenta.BLL.Servicios;
 using SistemaVenta.BLL.Servicios.Contrato;
 using SistemaVenta.DTO;
 
